@@ -81,7 +81,7 @@ namespace Part_1
                 clientName = Console.ReadLine();
             }
 
-            // Welcome the user with a welcoming message
+            //  welcoming message to the user
             string DecorativeBorder = new string('*', 50);
             Console.WriteLine(DecorativeBorder);
             Console.ForegroundColor = ConsoleColor.Green;
@@ -104,7 +104,7 @@ namespace Part_1
 
 
 
-                // Exit condition
+                // To exit the app
                 if (clientInput == "exit")
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
