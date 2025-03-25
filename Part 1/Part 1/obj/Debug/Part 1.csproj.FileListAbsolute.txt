@@ -1,0 +1,28 @@
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\Part 1.exe.config
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\Part 1.exe
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\Part 1.pdb
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\obj\Debug\Part 1.csproj.AssemblyReference.cache
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\obj\Debug\Part 1.csproj.CoreCompileInputs.cache
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\obj\Debug\Part 1.exe
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\obj\Debug\Part 1.pdb
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\NAudio.Asio.dll
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\NAudio.Core.dll
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\NAudio.dll
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\NAudio.Midi.dll
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\NAudio.WinForms.dll
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\NAudio.WinMM.dll
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\NAudio.xml
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\NAudio.Asio.xml
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\NAudio.Core.xml
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\NAudio.Midi.xml
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\NAudio.WinForms.xml
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\NAudio.WinMM.xml
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Dam!LoLa\Desktop\Part 1\Part 1\Part 1\obj\Debug\Part 1.csproj.Up2Date
